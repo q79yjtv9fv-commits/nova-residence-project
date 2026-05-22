@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/q79yjtv9fv-commits/',
+  base: '/nova-residence-project/',
 })
